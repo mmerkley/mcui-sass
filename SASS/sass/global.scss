@@ -1,0 +1,62 @@
+// --- Colors --- //
+$mcui-red:rgba(244,36,52,1.0);
+$mcui-red-drk:rgba(177,34,37,1.0);
+//Red
+$mcui-gray-01:rgba(238,238,239,1.0);
+$mcui-gray-02:rgba(204,206,209,1.0);
+$mcui-gray-03:rgba(154,160,166,1.0);
+$mcui-gray-04:rgba(92,102,111,1.0);
+$mcui-gray-05:rgba(51,61,71,1.0);
+//Grays
+$mcui-white:rgba(255,255,255,1.0);
+//Blues
+$mcui-blue-lt:rgba(126,209,235,1.0);
+$mcui-blue:rgba(45,182,241,1.0);
+$mcui-blue-drk:rgba(34,108,188,1.0);
+//Green
+$mcui-green:rgba(13,153,70,1.0);
+$mcui-green-drk:rgba(9,109,50,1.0);
+//Purple
+$mcui-purple:rgba(146,66,183,1.0);
+$mcui-purple-drk:rgba(107,59,150,1.0);
+//Yellow Gold
+$mcui-yellow:rgba(255,194,38,1.0);
+$mcui-gold:rgba(255,153,38,1.0);
+
+//Text 
+.text-red {color:$mcui-red};
+.text-red-drk {color:$mcui-red-drk};
+.text-gray-01 {color:$mcui-gray-01};
+.text-gray-02 {color:$mcui-gray-02};
+.text-gray-03 {color:$mcui-gray-03};
+.text-gray-04 {color:$mcui-gray-04};
+.text-gray-05 {color:$mcui-gray-05};
+.text-white {color:$mcui-white};
+.text-blue-lt {color:$mcui-blue-lt};
+.text-blue {color:$mcui-blue};
+.text-blue-drk {color:$mcui-blue-drk};
+.text-green {color:$mcui-green};
+.text-green-drk {color:$mcui-green-drk};
+.text-purple {color:$mcui-purple};
+.text-purple-drk {color:$mcui-purple-drk};
+.text-yellow {color:$mcui-yellow};
+.text-gold {color:$mcui-gold};
+
+//Background Colors
+.bg-red {background-color:$mcui-red};;
+.bg-red-drk {background-color:$mcui-red-drk};
+.bg-gray-01 {background-color:$mcui-gray-01};
+.bg-gray-02 {background-color:$mcui-gray-02};
+.bg-gray-03 {background-color:$mcui-gray-03};
+.bg-gray-04 {background-color:$mcui-gray-04};
+.bg-gray-05 {background-color:$mcui-gray-05};
+.bg-white {background-color:$mcui-white};
+.bg-blue-lt {background-color:$mcui-blue-lt};
+.bg-blue {background-color:$mcui-blue};
+.bg-blue-drk {background-color:$mcui-blue-drk};
+.bg-green {background-color:$mcui-green};
+.bg-green-drk {background-color:$mcui-green-drk};
+.bg-purple {background-color:$mcui-purple};
+.bg-purple-drk {background-color:$mcui-purple-drk};
+.bg-yellow {background-color:$mcui-yellow};
+.bg-gold {background-color:$mcui-gold};
